@@ -1,2 +1,3 @@
-*.css linguist-language=jQuery
+static/* linguist-vendored
+*.css linguist-language=Css
 *.js linguist-language=jQuery
