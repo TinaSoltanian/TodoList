@@ -1,2 +1,2 @@
-*.css linguist-language=Css
+*.css linguist-language=jQuery
 *.js linguist-language=jQuery
